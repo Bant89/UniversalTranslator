@@ -5,7 +5,11 @@ The Runtime of this program is **Node.js**
 
 
 The file format it recives as input is of **.txt** extension, in which every value is separated by commas. 
-The order in which you have to send the data is: value,currentUnit,destinyUnit.
+The strict order in which you have to send the data is: *value,currentUnit,destinyUnit* you can't put spaces between the values.
+
+The temperature system that you specifies is defined by the initial letter in uppercase. For example: C(For Celsius), F(For Fahrenheit) and K(For Kelvin).
+
+
 
 -Example of the content in input.txt:
 ```
