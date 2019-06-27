@@ -25,3 +25,6 @@ If you want to learn more about the license.md [click here](./LICENSE)
 ![UML CLASS](./Graphics/translatorUML.PNG)
 
 
+**CRC Card of the project**
+
+![CRC Card](./Graphics/CRCProyecto.PNG)
