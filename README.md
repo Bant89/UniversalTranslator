@@ -18,3 +18,9 @@ The temperature system that you specifies is defined by the initial letter in up
 90,F,C
 100,K,F
 ```
+
+
+![UML CLASS](./Graphics/translatorUML.PNG)
+
+
+![CRC Card](./Graphics/CRCProyecto.PNG)
