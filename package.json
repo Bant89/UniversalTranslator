@@ -1,0 +1,22 @@
+{
+  "name": "universaltranslator",
+  "version": "1.0.0",
+  "description": "\"A program that let's you change between temperature systems\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bant89/UniversalTranslator.git"
+  },
+  "author": "\"Cesar Gonzalez\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bant89/UniversalTranslator/issues"
+  },
+  "homepage": "https://github.com/Bant89/UniversalTranslator#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
