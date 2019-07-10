@@ -28,3 +28,12 @@ If you want to learn more about the license.md [click here](./LICENSE)
 **CRC Card of the project**
 
 ![CRC Card](./Graphics/CRCProyecto.PNG)
+
+
+**Como instalarlo?**
+
+Es necesario tener Node.js instalado, y podemos usar el Node Package Manager(NPM) para utilizar el paquete con el siguiente comando:
+
+```bash
+npm i universaltranslator
+```
