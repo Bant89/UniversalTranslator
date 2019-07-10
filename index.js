@@ -61,10 +61,6 @@ class Translator {
       }
       return definitivo;
     } else {
-      // if(origin == "" || destiny == ""){
-      //   console.error("The route of the input/output file is empty.");
-      //   return -1;
-      // }
       let res = this.readFile(origin);
       let error = false,
         definitivo = [];
@@ -161,10 +157,5 @@ class Translator {
     });
   }
 }
-/*Translator.translate(
-  [["105", "C", "K"], ["68", "C", "F"], ["90", "F", "C"], ["100", "K", "F"]],
-  "",
-  true
-);*/
-// Translator.translate("./input.txt", "./output.txt");
+
 module.exports = Translator;
